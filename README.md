@@ -8,5 +8,6 @@ articol: https://nicuflorica.blogspot.com/2020/05/multimetru-de-panou-cu-protect
 ![real3](https://1.bp.blogspot.com/-U_qeoErzhc8/Xr__GuE2rcI/AAAAAAAAcdc/RVDoUJpmlYcy4DWKXV2L72VcSrP0_om2wCLcBGAsYHQ/s200/sendivis1.jpg)
 ![real4](https://1.bp.blogspot.com/-rlKyoqjSC-I/Xr_-7m0aqMI/AAAAAAAAcdY/JQuulu5zdTk7_WffgNsyEbr47A9566a-gCLcBGAsYHQ/s200/sendvis2.jpg)
 
-atch the video !!!
-[![Watch the video](https://img.youtube.com/vi/Yh5e0AHxuIA/sddefault.jpg)](https://Yh5e0AHxuIA)
+Watch the video !!!
+
+[![Watch the video](https://img.youtube.com/vi/Yh5e0AHxuIA/sddefault.jpg)](https://youtu.be/Yh5e0AHxuIA)
